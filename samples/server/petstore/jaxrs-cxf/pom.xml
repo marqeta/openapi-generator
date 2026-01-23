@@ -4,7 +4,7 @@
   <artifactId>openapi-cxf-server</artifactId>
   <packaging>war</packaging>
   <name>openapi-cxf-server</name>
-  <description>This spec is mainly for testing Petstore server and contains fake endpoints, models. Please do not use this for any other purpose. Special characters: \&quot; \\</description>
+  <description>This spec is mainly for testing Petstore server and contains fake endpoints, models. Please do not use this for any other purpose. Special characters: \" \\</description>
   <version>1.0.0</version>
 
 
@@ -202,7 +202,7 @@
     <swagger-core-version>1.5.22</swagger-core-version>
     <jetty-version>9.2.9.v20150224</jetty-version>
     <junit-version>4.13</junit-version>
-    <logback-version>1.2.0</logback-version>
+    <logback-version>1.5.25</logback-version>
     <beanvalidation-version>2.0.2</beanvalidation-version>
     <cxf-version>3.3.0</cxf-version>
     <jackson-jaxrs-version>2.9.9</jackson-jaxrs-version>
